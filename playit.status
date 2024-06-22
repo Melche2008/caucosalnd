@@ -1,3946 +1,1156 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719091865214 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719093999298 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091868350 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094002424 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091871507 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094005551 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091874634 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094008650 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091877739 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094011778 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091880843 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094014897 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091883980 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094018020 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091887076 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094021162 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091890276 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094024318 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091893394 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094027487 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091896559 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094030590 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091899673 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094033699 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091902779 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094036801 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091905895 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094039894 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091908995 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094043000 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091912091 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094046129 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091915220 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094049252 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091918335 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094052351 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091921524 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094055457 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091924627 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094058560 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091927776 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094061664 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091930883 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094064767 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091933983 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094067866 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091937136 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094070975 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091940253 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094074099 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091943359 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094077196 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091946548 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094080296 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091949648 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094083400 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091952746 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094086608 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091955864 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094089703 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091959011 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094092814 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091962118 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094095939 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091965284 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094099041 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091968428 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094102286 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091971587 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094105400 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091974746 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094108503 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091977856 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094111695 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091980955 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094114912 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091984074 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094118048 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091987235 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094121150 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091990384 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094124257 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091993488 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094127369 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091996613 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094130491 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719091999805 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094133671 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092002917 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094136881 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092006029 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094140009 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092009175 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094143108 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092012281 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094146218 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092015384 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094149325 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092018503 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094152432 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092021608 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094155573 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092024708 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094158673 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092027809 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094161785 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092030937 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094164888 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092034095 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094168062 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092037247 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094171162 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092040364 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094174270 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092043604 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094177375 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092046811 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094180480 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092050019 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094183620 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092053418 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094186773 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092056553 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094190002 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092059651 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094193127 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092062745 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094196218 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092065834 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094199341 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092068940 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094202482 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092072052 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094205591 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092075149 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094208702 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092078280 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094211858 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092081387 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094214972 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092084489 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094218074 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092087583 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094221188 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092090738 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094224406 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092093839 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094227531 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092096962 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094230639 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092100089 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094233759 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092103221 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094236927 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092106339 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094240033 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092109436 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094243143 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092112557 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094246254 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092115668 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094249367 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092118776 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094252489 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092121915 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094255592 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092125200 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094258724 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092128308 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094261831 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092131409 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094264968 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092134514 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094268075 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092137629 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094271241 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092140751 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094274335 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092144011 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094277500 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092147140 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094280617 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092150272 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094283732 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092153373 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094286833 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092156477 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094289936 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092159585 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094293042 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092162698 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094296148 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092165882 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094299261 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092168980 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094302446 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092172099 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094305590 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092175201 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094308695 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092178314 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094311797 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092181443 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094314906 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092184542 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094318016 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092187661 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094321126 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092190777 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094324233 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092193993 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094327536 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092197093 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094330644 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092200196 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094333754 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092203307 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094336876 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092206410 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094339980 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092209526 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094343092 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092212775 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094346196 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092215874 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094349536 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092219003 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094352651 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092222153 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094355788 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092225259 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094358890 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092228362 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094362012 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092231485 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094365124 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092234797 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094368270 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092237897 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094371376 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092240999 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094374614 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092244125 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094377777 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092247219 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094380925 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092250348 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094384035 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092253450 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094387174 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092256566 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094390280 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092259686 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094393393 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092262792 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094396522 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092265888 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094399734 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092268989 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094402863 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092272125 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094405978 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092275223 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094409098 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092278339 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094412222 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092281456 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094415340 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092284580 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094418465 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092287695 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094421593 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092290796 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094424746 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092293888 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094427853 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092296987 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094430966 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092300174 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094434081 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092303290 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094437212 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092306445 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094440352 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092309546 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094443452 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092312639 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094446571 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092315746 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094449667 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092318845 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094452779 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092322002 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094455908 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092325115 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094459095 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092328219 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094462190 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092331443 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094465311 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092334565 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094468430 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092337720 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094471571 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092340834 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094474672 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092344033 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094477782 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092347125 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094480891 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092350304 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094483994 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092353444 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094487120 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092356595 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094490246 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092359712 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094493389 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092362945 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094496500 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092366104 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094499646 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092369216 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094502770 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092372507 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094505880 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092375619 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094508980 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092378726 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094512107 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092381822 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094515231 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092384931 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094518358 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092388055 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094521480 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092391165 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094524576 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092394272 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094527691 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092397377 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094530799 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092400482 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094533892 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092403622 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094537010 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092406744 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094540129 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092409851 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094543249 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092412977 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094546357 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092416082 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094549481 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092419186 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094552596 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092422287 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094555695 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092425437 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094558794 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092428551 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094561983 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092431677 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094565075 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092434812 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094568198 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092437924 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094571301 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092441071 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094574407 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092444188 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094577504 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092447306 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094580674 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092450468 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094583796 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092453566 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094586929 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092456669 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094590026 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092459772 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094593125 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092462904 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094596236 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092466087 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092469430 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092472554 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092475795 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092478909 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092482028 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092485179 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092488304 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092491451 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092494648 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092497756 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092500876 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092503981 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092507087 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092510206 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092513479 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092516587 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092519772 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092522898 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092525993 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092529090 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092532251 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092535378 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092538567 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092541724 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092544854 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092547980 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092551078 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092554190 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092557300 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092560502 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092563617 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092566731 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092569846 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092572965 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092576064 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092579206 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092582327 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092585423 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092588541 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092591644 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092594774 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092597878 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092601003 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092604139 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092607237 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092610341 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092613439 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092616590 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092619699 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092622800 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092625935 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092629084 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092632194 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092635304 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092638417 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092641518 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092644687 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092647849 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092650948 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092654161 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092657268 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092660367 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092663468 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092666569 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092669720 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092673086 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092676569 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092679683 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092682794 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092685904 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092688997 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092692086 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092695210 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092698315 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092701431 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092704547 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092707654 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092710751 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092713881 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092717048 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092720172 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092723339 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092726467 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092729571 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092732685 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092735779 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092738883 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092742028 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092745127 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092748423 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092751521 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092754732 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092757829 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092760931 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092764027 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092767208 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092770324 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092773522 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092776646 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092779769 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092782863 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092785983 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092789152 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092792415 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092795527 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092798775 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092801881 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092804995 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092808168 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092811265 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092814482 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092817598 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092820724 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092823827 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092827007 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092830142 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092833291 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092836427 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092839620 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092842723 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092845879 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092848977 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092852079 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092855188 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092858358 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092861547 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092864716 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092867823 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092870978 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092874076 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092877184 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092880317 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092883626 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092886747 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092889848 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092892960 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092896074 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092899245 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092902341 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092905503 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092908629 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092911778 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092914889 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092917986 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092921086 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092924193 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092927426 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092930551 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092933690 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092936837 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092939951 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092943117 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092946212 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092949315 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092952458 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092955658 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092958759 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092961874 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092965005 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092968107 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092971217 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092974358 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092977464 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092980600 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092983716 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092986815 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092989919 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092993034 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092996139 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719092999513 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093002725 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093005844 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093008955 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093012113 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093015208 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093018313 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093021449 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093024636 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093027804 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093030928 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093034051 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093037165 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093040259 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093043399 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093046508 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093049621 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093052720 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093055818 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093058915 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093062015 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093065125 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093068242 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093071349 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093074458 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093077574 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093080701 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093083809 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093086971 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093090190 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093093340 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093096449 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093099551 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093102658 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093105773 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093108899 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093112029 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093115226 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093118346 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093121469 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093124578 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093127697 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093130799 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093133905 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093137101 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093140466 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093143704 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093146810 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093149909 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093153008 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093156157 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093159298 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093162446 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093165556 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093168672 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093171826 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093174935 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093178071 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093181177 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093184313 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093187411 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093190542 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093193640 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093196754 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093199907 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093203043 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093206158 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093209264 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093212396 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093215504 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093218598 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093221736 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093224844 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093227955 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093231089 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093234235 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093237341 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093240441 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093243572 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093246684 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093249797 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093252894 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093256169 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093259372 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093262491 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093265589 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093268683 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093271799 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093274916 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093278048 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093281165 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093284283 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093287391 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093290523 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093293640 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093296740 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093299839 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093303615 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093306904 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093310010 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093313143 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093316276 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093319401 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093322516 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093325676 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093328774 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093331877 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093335005 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093338101 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093341205 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093344295 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093347400 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093350602 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093353723 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093356846 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093360042 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093363158 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093366265 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093369404 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093372549 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093375758 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093378864 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093381964 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093385077 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093388172 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093391293 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093394441 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093397544 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093400645 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093403759 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093406912 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093410013 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093413105 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093416205 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093419460 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093422639 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093425773 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093428901 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093432007 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093435129 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093438239 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093441342 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093444459 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093447561 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093450667 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093453770 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093457059 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093460169 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093463400 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093466506 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093469613 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093472722 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093475843 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093478957 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093482071 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093485227 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093488335 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093491552 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093494698 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093497820 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093500917 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093504015 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093507171 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093510284 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093513433 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093516531 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093519635 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093522731 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093525848 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093528964 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093532077 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093535181 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093538278 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093541385 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093544504 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093547610 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093550720 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093553861 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093557334 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093560653 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093563852 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093566956 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093570065 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093573163 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093576277 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093579377 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093582471 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093585626 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093588738 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093591844 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093594944 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093598062 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093601198 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093604299 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093607572 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093610738 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093613862 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093616966 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093620069 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093623196 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093626292 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093629419 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093632563 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093635738 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093639067 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093642205 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093645337 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093649139 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093652262 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093655625 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093658736 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093661842 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093664960 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093668078 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093671173 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093674378 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093677528 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093680776 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093683900 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093687140 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093690240 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093693354 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093696475 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093699590 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093702723 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093705834 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093708943 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093712047 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093715199 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093718308 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093721465 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093724695 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093727838 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093731032 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093734145 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093737250 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093740360 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093743470 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093746622 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093749734 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093752870 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093755976 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093759068 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093762166 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093765402 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093768538 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093771657 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093774750 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093777850 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093780952 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093784054 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093787193 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093790346 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093793455 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093796552 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093799659 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093802778 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093805872 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093808991 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093812099 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093815219 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093818353 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093821472 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093824614 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093827728 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093830834 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093833962 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093837064 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093840202 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093843302 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093846427 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093849530 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093852631 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093855732 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093858910 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093862074 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093865199 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093868306 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093871457 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093874566 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093877677 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093880811 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093883994 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093887124 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093890226 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093893323 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093896421 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093899542 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093902648 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093905785 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093908896 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093912016 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093915117 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093918229 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093921331 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-az-had.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-together-equivalent.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719093924427 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719094599335 tunnel running, 2 tunnels registered
 
 
 TUNNELS
